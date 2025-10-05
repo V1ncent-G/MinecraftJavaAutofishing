@@ -4,6 +4,7 @@
     # CRITICAL - recasts a second time after retrieving for some reason. Problem caused by sample rate being high and seeing bobber splash after it has already retrieved
     # Handle full inventory
     # Handle broken rods
+    # Allow full screen
 
 # Notes, please read:
     # Run following command in terminal (open terminal with ctrl+~) to install:
